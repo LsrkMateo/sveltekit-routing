@@ -1,4 +1,4 @@
-# Svelte-kit routing
+# Svelte-kit routing 🏹
 
 Este respositiorio tiene como finalidad almcenar informacion contenida de como usar el router de svelte-kit.
 
